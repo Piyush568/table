@@ -1,1 +1,0 @@
-webpackJsonp_name_([107],{"9skL":function(i,a){i.exports='<div ng-controller=ui-ribbonbar-core-controller> <div class=panels-container-tool-area> <div ng-repeat="tab in factory.tabs track by $index" ng-show=tab.selected> <div id=ribbon-item-tool-area-{{::tab.id}}> </div> </div> </div> </div> '}});
